@@ -180,34 +180,34 @@ elif isinstance(selected_rows, list) and len(selected_rows) > 0:
 
 if record is not None:
     st.markdown("### Edit Selected Record")
-    # Display the image from the URL in the record (if available)
-    image_url = record.get("capture_license_plate_url", "")
-    if image_url:
-        st.image(image_url, caption="License Plate Capture", width=300)
-    else:
-        st.info("No license plate image available.")
-
+    # Using a form with two columns: left for image, right for edit inputs
     with st.form("edit_form", clear_on_submit=False):
-        transaction_date = st.text_input(
-            "Transaction Date", value=str(record.get("transaction_date", ""))
-        )
-        payment_method = st.text_input(
-            "Payment Method", value=str(record.get("payment_method", ""))
-        )
-        entry_time = st.text_input(
-            "Entry Time", value=str(record.get("entry_time", ""))
-        )
-        duration_minutes = st.number_input(
-            "Duration (minutes)",
-            value=float(record.get("duration_minutes", 0)),
-            step=1.0,
-        )
-        # Editable URL field for the capture license plate image
-        capture_license_plate_url = st.text_input(
-            "Capture License Plate URL",
-            value=str(record.get("capture_license_plate_url", "")),
-        )
-
+        col_left, col_right = st.columns(2)
+        with col_left:
+            image_url = record.get("capture_license_plate_url", "")
+            if image_url:
+                st.image(image_url, caption="License Plate Capture", width=300)
+            else:
+                st.info("No license plate image available.")
+        with col_right:
+            transaction_date = st.text_input(
+                "Transaction Date", value=str(record.get("transaction_date", ""))
+            )
+            payment_method = st.text_input(
+                "Payment Method", value=str(record.get("payment_method", ""))
+            )
+            entry_time = st.text_input(
+                "Entry Time", value=str(record.get("entry_time", ""))
+            )
+            duration_minutes = st.number_input(
+                "Duration (minutes)",
+                value=float(record.get("duration_minutes", 0)),
+                step=1.0,
+            )
+            capture_license_plate_url = st.text_input(
+                "Capture License Plate URL",
+                value=str(record.get("capture_license_plate_url", "")),
+            )
         submitted = st.form_submit_button("Save Changes")
         if submitted:
             row_idx = record["idx"]

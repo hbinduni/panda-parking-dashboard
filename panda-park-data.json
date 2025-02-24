@@ -10,7 +10,7 @@
     "payment_method": "EMONEY",
     "transaction_date": "2025-02-20",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10002",
@@ -23,7 +23,7 @@
     "payment_method": "FLASH",
     "transaction_date": "2025-02-20",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10003",
@@ -36,7 +36,7 @@
     "payment_method": "QRIS",
     "transaction_date": "2025-02-20",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10004",
@@ -49,7 +49,7 @@
     "payment_method": "GOPAY",
     "transaction_date": "2025-02-20",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10005",
@@ -62,7 +62,7 @@
     "payment_method": "DANA",
     "transaction_date": "2025-02-20",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10006",
@@ -75,7 +75,7 @@
     "payment_method": "OVO",
     "transaction_date": "2025-02-20",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10007",
@@ -88,7 +88,7 @@
     "payment_method": "EMONEY",
     "transaction_date": "2025-02-20",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10008",
@@ -101,9 +101,8 @@
     "payment_method": "FLASH",
     "transaction_date": "2025-02-20",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
-
   {
     "transaction_id": "TXN10009",
     "license_plate": "B 1009 YZA",
@@ -115,7 +114,7 @@
     "payment_method": "QRIS",
     "transaction_date": "2025-02-21",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10010",
@@ -128,7 +127,7 @@
     "payment_method": "GOPAY",
     "transaction_date": "2025-02-21",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10011",
@@ -141,7 +140,7 @@
     "payment_method": "DANA",
     "transaction_date": "2025-02-21",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10012",
@@ -154,7 +153,7 @@
     "payment_method": "OVO",
     "transaction_date": "2025-02-21",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10013",
@@ -167,7 +166,7 @@
     "payment_method": "EMONEY",
     "transaction_date": "2025-02-21",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10014",
@@ -180,7 +179,7 @@
     "payment_method": "FLASH",
     "transaction_date": "2025-02-21",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10015",
@@ -193,7 +192,7 @@
     "payment_method": "QRIS",
     "transaction_date": "2025-02-21",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10016",
@@ -206,9 +205,8 @@
     "payment_method": "GOPAY",
     "transaction_date": "2025-02-21",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
-
   {
     "transaction_id": "TXN10017",
     "license_plate": "B 1017 WXY",
@@ -220,7 +218,7 @@
     "payment_method": "QRIS",
     "transaction_date": "2025-02-22",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10018",
@@ -233,7 +231,7 @@
     "payment_method": "GOPAY",
     "transaction_date": "2025-02-22",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10019",
@@ -246,7 +244,7 @@
     "payment_method": "DANA",
     "transaction_date": "2025-02-22",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10020",
@@ -259,9 +257,8 @@
     "payment_method": "FLASH",
     "transaction_date": "2025-02-22",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
-
   {
     "transaction_id": "TXN10021",
     "license_plate": "B 1021 IJK",
@@ -273,7 +270,7 @@
     "payment_method": "EMONEY",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10022",
@@ -286,7 +283,7 @@
     "payment_method": "OVO",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10023",
@@ -299,7 +296,7 @@
     "payment_method": "GOPAY",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10024",
@@ -312,7 +309,7 @@
     "payment_method": "QRIS",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10025",
@@ -325,7 +322,7 @@
     "payment_method": "FLASH",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10026",
@@ -338,7 +335,7 @@
     "payment_method": "GOPAY",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10027",
@@ -351,7 +348,7 @@
     "payment_method": "DANA",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10028",
@@ -364,7 +361,7 @@
     "payment_method": "QRIS",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10029",
@@ -377,9 +374,8 @@
     "payment_method": "EMONEY",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
-
   {
     "transaction_id": "TXN10030",
     "license_plate": "B 1030 MNP",
@@ -391,9 +387,8 @@
     "payment_method": "EMONEY",
     "transaction_date": "2025-02-22",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
-
   {
     "transaction_id": "TXN10031",
     "license_plate": "B 1031 QRT",
@@ -405,7 +400,7 @@
     "payment_method": "FLASH",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10032",
@@ -418,7 +413,7 @@
     "payment_method": "QRIS",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10033",
@@ -431,7 +426,7 @@
     "payment_method": "GOPAY",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10034",
@@ -444,7 +439,7 @@
     "payment_method": "DANA",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10035",
@@ -457,9 +452,8 @@
     "payment_method": "EMONEY",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
-
   {
     "transaction_id": "TXN10036",
     "license_plate": "B 1036 DEE",
@@ -471,7 +465,7 @@
     "payment_method": "FLASH",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10037",
@@ -484,9 +478,8 @@
     "payment_method": "QRIS",
     "transaction_date": "2025-02-23",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
-
   {
     "transaction_id": "TXN10038",
     "license_plate": "B 1038 JKM",
@@ -498,7 +491,7 @@
     "payment_method": "GOPAY",
     "transaction_date": "2025-02-24",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10039",
@@ -511,7 +504,7 @@
     "payment_method": "DANA",
     "transaction_date": "2025-02-24",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10040",
@@ -524,7 +517,7 @@
     "payment_method": "EMONEY",
     "transaction_date": "2025-02-24",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10041",
@@ -537,7 +530,7 @@
     "payment_method": "FLASH",
     "transaction_date": "2025-02-24",
     "parking_location": "Lot A - Panda Park Downtown",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10042",
@@ -550,7 +543,7 @@
     "payment_method": "QRIS",
     "transaction_date": "2025-02-24",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   },
   {
     "transaction_id": "TXN10043",
@@ -563,7 +556,7 @@
     "payment_method": "GOPAY",
     "transaction_date": "2025-02-24",
     "parking_location": "Lot C - Panda Park East",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpg"
   },
   {
     "transaction_id": "TXN10044",
@@ -576,7 +569,7 @@
     "payment_method": "DANA",
     "transaction_date": "2025-02-24",
     "parking_location": "Lot D - Panda Park North",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car2.jpg"
   },
   {
     "transaction_id": "TXN10045",
@@ -589,6 +582,6 @@
     "payment_method": "EMONEY",
     "transaction_date": "2025-02-24",
     "parking_location": "Lot B - Panda Park West",
-    "capture_license_plate_url": "https://s3.lara.my.id/car1.jpeg"
+    "capture_license_plate_url": "https://s3.lara.my.id/car3.jpg"
   }
 ]
