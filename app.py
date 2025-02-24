@@ -71,7 +71,7 @@ busy_hours = {
 # -----------------------------
 # Build the Dashboard
 # -----------------------------
-st.title("Panda Park Parking Transaction Dashboard")
+st.title("Panda Park Parking Transaction Dashboard v1.0.4")
 
 # Top Panel: Metrics
 st.header("Overview Statistics")
